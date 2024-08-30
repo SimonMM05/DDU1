@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace idk_man
 {
-    internal class Peters
+    internal class Simoney
     {
+        public void print()
+        {
+            Console.WriteLine("Simoney");
+        }
     }
 }
