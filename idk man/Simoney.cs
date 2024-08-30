@@ -12,5 +12,9 @@ namespace idk_man
         {
             Console.WriteLine("Simoney");
         }
+        public void print1()
+        {
+            Console.WriteLine("Simoney1");
+        }
     }
 }
